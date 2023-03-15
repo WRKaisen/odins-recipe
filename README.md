@@ -1,3 +1,1 @@
-# odins-recipe
-I'm hoping that this worked out
-This is a test to creating a github account
+This is a recipe about what I really love to cook. I'm really struggling with github, but hopefully this will push through.
